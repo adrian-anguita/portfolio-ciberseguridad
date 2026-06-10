@@ -40,13 +40,13 @@ operativo previo.
 
 ## Capturas
 ![Configuración VM](photos_AD/windows_server_01.png)
-![Hardware y orden de arranque](capturas/windows_server_02.png)
-![Selección de ISO](capturas/windows_server_03.png)
-![Selección de edición](capturas/windows_server_05.png)
-![Tipo de instalación](capturas/windows_server_06.png)
-![Server Manager](capturas/windows_server_10.png)
-![Rastreador de apagado](capturas/windows_server_11.png)
-![Windows Update](capturas/windows_server_12.png)
+![Hardware y orden de arranque](photo_AD/windows_server_02.png)
+![Selección de ISO](photos_AD/windows_server_03.png)
+![Selección de edición](photos_AD/windows_server_05.png)
+![Tipo de instalación](photos_AD/windows_server_06.png)
+![Server Manager](photos_AD/windows_server_10.png)
+![Rastreador de apagado](photos_AD/windows_server_11.png)
+![Windows Update](photos_AD/windows_server_12.png)
 
 ## Siguiente paso
 Post install.
