@@ -17,7 +17,8 @@ Esto es importante en entornos de producción para mantener
 un registro de cambios en el servidor.
 
 ## Capturas
-![Instalación Guest Additions](photos_AD/windows_server_08.png, photos_AD/windows_server_09.png)
+![Instalación Guest Additions](photos_AD/windows_server_08.png) 
+![Instalación Guest Additions 2.0](photos_AD/windows_server_09.png)
 ![Windows Update](photos_AD/windows_server_12.png)
 ![Rastreador de apagado](photos_AD/windows_server_11.png)
 
