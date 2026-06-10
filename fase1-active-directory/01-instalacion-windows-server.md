@@ -40,7 +40,7 @@ operativo previo.
 
 ## Capturas
 ![Configuración VM](photos_AD/windows_server_01.png)
-![Hardware y orden de arranque](photo_AD/windows_server_02.png)
+![Hardware y orden de arranque](photos_AD/windows_server_02.png)
 ![Selección de ISO](photos_AD/windows_server_03.png)
 ![Selección de edición](photos_AD/windows_server_05.png)
 ![Tipo de instalación](photos_AD/windows_server_06.png)
