@@ -45,8 +45,6 @@ operativo previo.
 ![Selección de edición](photos_AD/windows_server_05.png)
 ![Tipo de instalación](photos_AD/windows_server_06.png)
 ![Server Manager](photos_AD/windows_server_10.png)
-![Rastreador de apagado](photos_AD/windows_server_11.png)
-![Windows Update](photos_AD/windows_server_12.png)
 
 ## Siguiente paso
 Post install.
