@@ -18,8 +18,6 @@ de Active Directory.
 | RAM | 4096 MB |
 | CPUs | 3 |
 | Disco | 100 GB (dinámico) |
-| Red Adaptador 1 | Red interna (intnet) |
-| Red Adaptador 2 | Red NAT |
 
 ### Orden de arranque
 Se configuró el orden de arranque en BIOS de la VM:
