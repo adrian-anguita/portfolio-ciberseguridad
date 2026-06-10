@@ -39,7 +39,7 @@ de actualización, ya que se trata de un entorno nuevo sin sistema
 operativo previo.
 
 ## Capturas
-![Configuración VM](capturas/windows_server_01.png)
+![Configuración VM](photos_AD/windows_server_01.png)
 ![Hardware y orden de arranque](capturas/windows_server_02.png)
 ![Selección de ISO](capturas/windows_server_03.png)
 ![Selección de edición](capturas/windows_server_05.png)
