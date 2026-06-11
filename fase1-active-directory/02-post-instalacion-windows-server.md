@@ -25,4 +25,3 @@ un registro de cambios en el servidor.
 ## Siguiente paso
 
 Tarjetas de red, configuración de redes y IP estatica.
-Configuración de IP estática 
