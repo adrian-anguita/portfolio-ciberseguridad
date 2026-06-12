@@ -1,6 +1,6 @@
 ## Configuración de Red Inicial
 
-###Objetivo
+### Objetivo
 
 Preparar la infraestructura de red básica del servidor Windows Server 2022 antes de desplegar los servicios de red (DNS, DHCP, Active Directory, etc.).
 
