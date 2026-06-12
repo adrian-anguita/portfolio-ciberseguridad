@@ -12,8 +12,7 @@ a SOC Analyst Tier 1.
 ## 📁 Proyectos
 | Proyecto | Descripción | Estado |
 |---|---|---|
-| Lab Active Directory | Despliegue de AD con DNS, DHCP y controlador de dominio | 🔄 En progreso |
-| Scripts Python | Herramientas de análisis de seguridad | ⏳ Pendiente |
+| Scripts Python | Herramientas de análisis de seguridad | 🔄 En progreso |
 | CTF Writeups | Resolución documentada de retos TryHackMe | ⏳ Pendiente |
 | SOC Lab | SIEM completo con Wazuh, Suricata, ELK, TheHive y Shuffle | ⏳ Pendiente |
 
